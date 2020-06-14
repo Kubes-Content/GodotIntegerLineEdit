@@ -1,3 +1,4 @@
+tool
 extends LineEdit
 
 var previousCaretPosition : int = 0
